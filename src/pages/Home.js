@@ -10,7 +10,7 @@ const Home = () => {
   return (
     <div>
       <h1>
-        Home
+        Home Page Baby
       </h1>
       You will be redirect to the blog page in 3 seconds...
     </div>
